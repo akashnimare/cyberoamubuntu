@@ -6,8 +6,8 @@
     <property name="can_focus">False</property>
     <property name="title" translatable="yes">Cyberoam client</property>
     <property name="window_position">center</property>
-    <property name="default_width">600</property>
-    <property name="default_height">400</property>
+    <property name="default_width">400</property>
+    <property name="default_height">600</property>
     <property name="icon_name">Cyberoam</property>
     <child>
       <object class="GtkBox" id="box1">
